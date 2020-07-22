@@ -5,5 +5,4 @@
 portfolio: sites
 taxi, SASS, gulp
 
-[Industrial company site](https://olgatop.github.io/taxi_SASS-gulp/  "Industrial company site") - сайт промышленной компании
-
+[Business card site](https://olgatop.github.io/taxi_SASS-gulp/ "Business card site") - сайт-визитка
